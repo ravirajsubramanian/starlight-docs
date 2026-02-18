@@ -28,6 +28,13 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Platform Connect',
+					items: [
+						{ label: 'Overview', slug: 'platform-connect' },
+						{ label: 'Platform Connect Details', slug: 'platform-connect/details' },
+					],
+				},
+				{
 					label: 'AI Platform',
 					items: [
 						{ label: 'Overview', slug: 'ai-platform' },
